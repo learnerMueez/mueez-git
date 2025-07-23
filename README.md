@@ -1,2 +1,2 @@
 # mueez-git
-this sis for my learning of Git
+this is for my learning of Git
